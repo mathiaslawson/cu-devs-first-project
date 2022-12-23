@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.google{
+    position: relative;
+    top:6rem;
+    left:-23.8rem;
+   cursor: pointer;
+}
+
+button{
+    position: relative;
+    top:13rem;
+}
+
+button:hover{
+    background-color: rgb(38, 140, 158);
+}
+
+.text{
+    left:5rem;
+    margin-top:-2rem;
+    cursor: pointer;
+}
+
+.text:hover{
+  color: rgb(38, 140, 158);
+}
+
+.text2{
+    left:4.3rem;
+    font-size: 0.8rem;
+    margin-top:-0.5rem;
+    padding: 1rem;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.text2:hover{
+    color:rgb(38, 140, 158);
+}
