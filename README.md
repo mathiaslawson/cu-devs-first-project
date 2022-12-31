@@ -6,7 +6,7 @@
 - 🤖 **Database migrations** out-of-the-box (uses Alembic)
 - 🧪 Testing structure using [pytest](https://docs.pytest.org/en/latest/)
 - 📊 login implementation with Flask- Login Auth0
-- 🎯  ORM with FLASK_SQLAlchemy
+- 🎯  ORM with FLASK_SQLAlchemy and latest version of sqlite3
 
 
  
