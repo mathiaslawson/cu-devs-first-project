@@ -5,7 +5,7 @@
 - 🍾  Ready to ship Flask project template
 - 🤖 **Database migrations** out-of-the-box (uses Alembic)
 - 🧪 Testing structure using [pytest](https://docs.pytest.org/en/latest/)
-- 📊 login implementation with Flask- Login Auth0
+- 📊 login implementation with Flask- Login and Auth0
 - 🎯  ORM with FLASK_SQLAlchemy and latest version of sqlite3
 
 
@@ -26,5 +26,5 @@ To update and populate the database run ::
 ```
     flask db migrate
     flask db upgrade
-    flask data
+    
 ```
