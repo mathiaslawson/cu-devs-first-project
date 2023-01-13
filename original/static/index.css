@@ -15,7 +15,8 @@ body{
 
 nav{
     padding-bottom: 1rem;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(4px);
+    background-color: rgba(0, 0, 0, 0.158);
 }
 
 .nav-logo{
